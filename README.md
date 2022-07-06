@@ -9,7 +9,7 @@ to test out the response in browser: run this in browser console.
 
 fetch('http://localhost:3000/posts')
 .then(result => {
-  console.log(result);
+  console.log(result.json());
 })
 
 

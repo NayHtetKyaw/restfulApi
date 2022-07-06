@@ -1,5 +1,5 @@
 # restfulApi #ref:edDev
-restful api with nodejs
+restful api example with nodejs 
 
 created mongodb from https://www.mongodb.com/atlas/database
 dependencies -> (express, nodemon, cos, body-parser, dotenv,mongoose,)
